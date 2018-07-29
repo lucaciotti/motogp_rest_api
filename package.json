@@ -1,0 +1,16 @@
+{
+  "name": "motogp_api",
+  "version": "1.0.0",
+  "description": "A Server REST Api to retrieve MotoGP info",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Ciotti",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
