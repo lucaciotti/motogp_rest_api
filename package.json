@@ -6,8 +6,8 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node ./lib/server.ts",
-    "start": "nodemon ./dist/server.js",
+    "dev": "nodemon",
+    "start": "ts-node --inspect=5858 src/server.ts",
     "prod": "npm run build && npm run start"
   },
   "author": "Luca Ciotti",
@@ -26,6 +26,8 @@
     "url": "https://github.com/lucaciotti/motogp_rest_api.git"
   },
   "devDependencies": {
+    "@types/morgan": "^1.7.35",
+    "morgan": "^1.9.0",
     "nodemon": "^1.18.3"
   }
 }

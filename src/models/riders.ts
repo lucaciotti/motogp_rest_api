@@ -1,11 +1,12 @@
 
 export class Riders {
-    name: String;
-    nation: String;
-    num: Number;
-    image: String;
-    flag_image: String;
-    profileLink: String;
+    private name: String;
+    private nation: String;
+    private num: Number;
+    private image: String;
+    private flag_image: String;
+    private profileLink: String;
+    private prova?: String;
 
     constructor(name: String, nation: String, num: Number, image: String, flag_image: String, profileLink: String){
         this.name = name;
