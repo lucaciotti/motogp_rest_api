@@ -1,9 +1,14 @@
-import { RidersController } from './../controllers/ridersController';
 import {Request, Response, Router} from 'express';
+
+import { RidersController } from './../controllers/ridersController';
+import { CalendarController } from './../controllers/calendarController';
+import { TeamController } from './../controllers/teamController';
 
 export class Routes {
 
     public ridersController: RidersController = new RidersController();
+    public calendarController: CalendarController = new CalendarController();
+    public teamController: TeamController = new TeamController();
 
     public router: Router;
 
@@ -13,18 +18,25 @@ export class Routes {
 
     public routes(app): void {
 
-        // middleware to use for all requests
+        // MIDDLEWARE to use for all requests
         this.router.use(function (req, res, next) {
+            res.set('Content-Type', 'application/json');
             // do logging
             console.log('Middleware to be implemented.');
             next(); // make sure we go to the next routes and don't stop here
         });
 
-        this.router.route('/riders')
+        this.router.route('/riders/:category')
             .get(this.ridersController.getRiders);
 
-        this.router.route('/riders/:rider_name')
-            .get(this.ridersController.getRider);
+        this.router.route('/rider/:rider_name')
+            .get(this.ridersController.getRiderProfile);
+
+        this.router.route('/calendar')
+            .get(this.calendarController.getCalendar);
+
+        this.router.route('/teams/:category')
+            .get(this.teamController.getTeams);
 
     }
 }

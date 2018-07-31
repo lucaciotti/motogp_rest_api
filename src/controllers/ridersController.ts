@@ -1,6 +1,7 @@
+import { Request, Response } from 'express';
+
 import { Riders } from './../models/riders';
 import { RiderProfile } from './../models/riderProfile';
-import { Request, Response } from 'express';
 
 const httpRequest = require('request');
 const cheerio = require('cheerio');
@@ -9,13 +10,11 @@ export class RidersController {
 
 
     public getRiders(req: Request, res: Response) {
-        res.set('Content-Type', 'application/json');
-
-        const lang = req.query.lang ? req.query.lang : 'en';
-        const classe = req.query.classe ? req.query.classe : 'MotoGP';
+        let lang = req.query.lang ? req.query.lang : 'en';
+        let category: String = req.params.category ? req.params.category : 'MotoGp';
 
         var options = {
-            url: 'http://www.motogp.com/' + lang + '/riders/' + classe,
+            url: 'http://www.motogp.com/' + lang + '/riders/' + category,
             method: 'GET',
         };
 
@@ -47,17 +46,12 @@ export class RidersController {
         });
     }
 
-    public getRider(req: Request, res: Response) {
+    public getRiderProfile(req: Request, res: Response) {
         let lang = req.query.lang ? req.query.lang : 'en';
         let rider_name: String = req.params.rider_name;
         rider_name = rider_name.replace(' ', '+');
 
-        let rider = new RiderProfile('Antonio');
-        rider.addCareerSummary('first', 'motogp', 2);
-
-        res.json(rider);
-        
-        /* let options = {
+        let options = {
             url: 'http://www.motogp.com/' + lang + '/riders/' + rider_name,
             method: 'GET',
         };
@@ -65,52 +59,47 @@ export class RidersController {
         httpRequest(options, function (error, response, body) {
             if (!error && response.statusCode == 200) {
                 const $ = cheerio.load(body);
-                var results = $('body');
-                var array = ['name', 'team', 'bike', 'plc_birth', 'date_birth', 'weight', 'height'];
-                console.log('I am in');
+                // let results = $('body');
+                let defaulKey = [];
+                let statisticKey = [];
+                let data = {};
                 try {
-                    data_store["data"] = {};
+                    let profile = new RiderProfile();
+                    defaulKey = profile.getArrayOfDefaultKey();
                     $('div.details p').each(function (i, elm) {
-                        data_store["data"][array[i]] = {};
-                        data_store["data"][array[i]] = $(this).text();
+                        data[defaulKey[i]] = {};
+                        data[defaulKey[i]] = $(this).text().trim();
                     });
-                    data_store["data"]["bike_image"] = $('img.bike_image').attr('src');
-                    data_store["data"]["career_summary"] = {};
-                    array = [];
-                    $('div.career-summary thead th').each(function (i, elm) {
-                        array[i] = $(this).text();
-                        // console.log($(this).text());
-                    });
+                    profile.setDefaultValue(data);
+                    profile.setBikeImage($('img.bike_image').attr('src'));
+
                     $('div.career-summary tbody tr').each(function (i, elm) {
-                        var section = $(this).find('th').text();
-                        data_store["data"]["career_summary"][section] = {};
+                        let title = $(this).find('th').text();
+                        let value: number[] = [];
                         $(this).find('td').each(function (j, el) {
-                            data_store["data"]["career_summary"][section][array[j + 1]] = {};
-                            data_store["data"]["career_summary"][section][array[j + 1]] = $(this).text();
+                            value[j] = $(this).text();
                         });
+                        profile.addCareerSummary(title, value[0], value[1], value[2], value[3]);
                     });
-                    data_store["data"]["career_statistics"] = {};
-                    array = [];
-                    $('div.career-statistics thead th').each(function (i, elm) {
-                        array[i] = $(this).text();
-                        // console.log($(this).text());
-                    });
+
+                    statisticKey = profile.getArrayOfStatistictKey();;
                     $('div.career-statistics tbody tr').each(function (i, elm) {
-                        data_store["data"]["career_statistics"][i] = {};
+                        data = {};
                         $(this).find('td').each(function (j, el) {
-                            data_store["data"]["career_statistics"][i][array[j]] = {};
-                            data_store["data"]["career_statistics"][i][array[j]] = $(this).text();
+                            data[statisticKey[j]] = {};
+                            data[statisticKey[j]] = $(this).text();
                         });
+                        profile.addCareerStatistics(data);
                     });
-                    data_store["data"]["rider_bio_profile"] = {};
-                    data_store["data"]["rider_bio_profile"] = $('div#rider_bio_profile').text().replace(/^\s+|\s+$/gm, '');
-                    res.send(data_store);
+
+                    profile.setBioProfile( $('div#rider_bio_profile').text().replace(/^\s+|\s+$/gm, ''));
+                    res.send(profile);
                 } catch (exeption) {
                     console.log(exeption);
                     res.sendStatus(503);
                 }
             };
-        }); */
+        });
     }
 
 }
