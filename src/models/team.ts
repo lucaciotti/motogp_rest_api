@@ -1,6 +1,6 @@
 interface teamRiders {
     name: String;
-    link: String;
+    profile_link: String;
 }
 
 export class Team {
@@ -14,8 +14,9 @@ export class Team {
         this.riders = [];
     }
 
-    addRiders(name: String, link: String){
-        this.riders.push({name, link});
+    addRiders(name: String, profile_link: String){
+        profile_link = 'localhost:3000/api/v1/riders/profile' + profile_link.substr(profile_link.lastIndexOf('/'));
+        this.riders.push({ name, profile_link});
     }
 
 

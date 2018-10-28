@@ -10,7 +10,6 @@ export class TeamController {
     getTeams(req: Request, res: Response){
         let lang = req.query.lang ? req.query.lang : 'en';
         let category: String = req.params.category ? req.params.category : 'MotoGp';
-
         var options = {
             url: 'http://www.motogp.com/'+lang+'/teams/'+category,
             method: 'GET',
@@ -38,6 +37,8 @@ export class TeamController {
                     console.log(exeption);
                     res.sendStatus(503);
                 }
+            } else {
+                res.send(response);
             };
         });
     }

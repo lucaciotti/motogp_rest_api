@@ -1,0 +1,417 @@
+{
+    "@context": "http://schema.org",
+    "@type": "LiveBlogPosting",
+    "coverageEndTime": "2018-08-03T21:30:00.000Z",
+    "coverageStartTime": "2018-08-02T21:00:00.000Z",
+    "dateModified": "Fri Aug 03 12:01:47 CEST 2018",
+    "datePublished": "2018-08-02T21:00:00.000Z",
+    "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.sky.it/#publisher",
+        "name": "Sky Italia",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+        }
+    },
+    "author": {
+        "@id": "https://www.sky.it/#publisher",
+        "@type": "Organization",
+        "name": "Sky Italia"
+    },
+    "liveBlogUpdate": [
+        {
+            "@type": "BlogPosting",
+            "articleBody": "MotoGP, Libere 1: Zarco è il più veloce           1     J. ZARCO     1:56.647         2     A. DOVIZIOSO     +0.073         3     M. MARQUEZ     +0.181         4     A. BAUTISTA     +0.184         5     V. ROSSI     +0.241         6     A. IANNONE     +0.432         7     D. PEDROSA     +0.642         8     S. BRADL     +0.644         9     J. MILLER     +0.674         10     T. RABAT     +0.678        ",
+            "headline": "MotoGP, Libere 1: Zarco è il più veloce",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T12:01:11Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T12:01:11Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467658",
+            "wordCount": 210,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Moto2, Libere 1: Schrotter in testa           1       M. SCHROTTER       2:03.854           2       R. FENATI       +0.423           3       F. BAGNAIA       +0.519           4       A. LOCATELLI       +0.594           5       A. MARQUEZ       +0.622           6       M. PASINI       +0.634           7       J. NAVARRO       +0.768           8       L. MARINI       +0.790           9       F. QUARTARARO       +0.842           10       M. OLIVEIRA       +0.847      ",
+            "headline": "Moto2, Libere 1: Schrotter in testa",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T12:01:47Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T12:01:47Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135469437",
+            "wordCount": 266,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Zarco  strappa il miglior tempo nel finale e chiude in testa le Libere 1",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:46:37Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:46:37Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467648",
+            "wordCount": 15,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Rossi  sale in quarta posizioni, al quinto posto c&#39;è  Zarco . Sta migliorando molto il francese della Tech3",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:40:09Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:40:09Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467506",
+            "wordCount": 20,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Valentino  Rossi  si migliora e strappa la quinta posizioni a Pedrosa: il pilota della Yamaha ha un ritardo di +0.168 da Dovizioso",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:38:33Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:38:33Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467474",
+            "wordCount": 24,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Libere 1 di MotoGP, i tempi quando mancano 5 minuti al termine della sessione           1       A. DOVIZIOSO       1:56.720           2       M. MARQUEZ       +0.108           3       A. BAUTISTA       +0.111           4       V. ROSSI       +0.168           5       A. IANNONE       +0.359           6       D. PEDROSA       +0.569           7       S. BRADL       +0.571           8       C. CRUTCHLOW       +0.666           9       J. LORENZO       +0.706           10       H. SYAHRIN       +0.708      ",
+            "headline": "Libere 1 di MotoGP, i tempi quando mancano 5 minuti al termine della sessione",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:36:58Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:36:58Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467411",
+            "wordCount": 274,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Si rivede tra le prime posizioni Dani  Pedrosa , dopo le ultime deludenti uscite. Il pilota spagnolo (che si ritirerà a fine stagione) è quinto a +0.569 da Dovizioso",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:36:10Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:36:10Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467395",
+            "wordCount": 30,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Sta girando veramente forte Alvaro  Bautista , che al momento è terzo a +0.413 da Dovizioso. E&#39; sorprendente che, al momento, Bautista non abbia ancora una sella per la prossima stagione...",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:35:22Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:35:22Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467382",
+            "wordCount": 32,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Valentino Rossi è scivolato in sesta posizione a +0.576 da Dovizioso",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "datePublished": "2018-08-03T10:33:34Z",
+            "dateModified": "2018-08-03T10:33:34Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467335",
+            "wordCount": 11
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Per Vinales si tratta dell&#39;ottava presenza a Brno, finora tre in 125/Moto3, una in Moto2 e tre in MotoGP",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "datePublished": "2018-08-03T10:32:58Z",
+            "dateModified": "2018-08-03T10:32:58Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467312",
+            "wordCount": 19
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Maverick Vinales torna in pista per provare a migliorare il proprio tempo. Il pilota spagnolo al momento è 12° con 1:57.764",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "datePublished": "2018-08-03T10:31:21Z",
+            "dateModified": "2018-08-03T10:31:21Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467263",
+            "wordCount": 21
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Zarco  conferma le difficoltà dell&#39;ultimo mese. Il francese non riesce ad andare oltre l&#39;undicesima posizione con 1:57.643",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:28:38Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:28:38Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135467175",
+            "wordCount": 18,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Libere 1 di MotoGP, i tempi quando mancano 20 minuti al termine della sessione           1       A. DOVIZIOSO       1:56.720           2       M. MARQUEZ       +0.108           3       A. BAUTISTA       +0.413           4       A. IANNONE       +0.461           5       D. PEDROSA       +0.569           6       V. ROSSI       +0.576           7       C. CRUTCHLOW       +0.666           8       J. LORENZO       +0.706           9       H. SYAHRIN       +0.708           10       J. MILLER       +0.877      ",
+            "headline": "Libere 1 di MotoGP, i tempi quando mancano 20 minuti al termine della sessione",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:21:35Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:21:35Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466998",
+            "wordCount": 274,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Ottimo giro di Iannone, che sale al quarto posto a +0.461 da Dovizioso",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "datePublished": "2018-08-03T10:20:55Z",
+            "dateModified": "2018-08-03T10:20:55Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466984",
+            "wordCount": 12
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Andrea Dovizioso strappa il primo tempo a Marc Marquez: il pilota della Ducati adesso è in testa con 1:56.720",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "datePublished": "2018-08-03T10:20:03Z",
+            "dateModified": "2018-08-03T10:20:03Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466953",
+            "wordCount": 18
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Per Andrea  Dovizioso  si tratta della 17esima partecipazione al GP della Repubblica Ceca: finora 3 in 125, 3 in 250 e 10 in MotoGP",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:18:01Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:18:01Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466913",
+            "wordCount": 26,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "La Ducati di Jorge  Lorenzo  è in ritardo rispetto a quella di Andrea Dovizioso: lo spagnolo è 7° a +0.598, Dovi è 2° a +0.201 da Marquez",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:16:42Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:16:42Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466894",
+            "wordCount": 29,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Valentino  Rossi  sale in quinta posizione a meno di mezzo secondo da Marc  Marquez  (+0.468)",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "datePublished": "2018-08-03T10:13:55Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "dateModified": "2018-08-03T10:13:55Z",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466817",
+            "wordCount": 19,
+            "sharedContent": []
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Andrea Dovizioso conferma quanto detto ieri: su questa pista può andare veloce quest&#39;anno. Il pilota della Ducati si piazza in seconda posizione a +0.201 da Marquez",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "datePublished": "2018-08-03T10:12:09Z",
+            "dateModified": "2018-08-03T10:12:09Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466761",
+            "wordCount": 25
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "Marc Marquez sale subito in testa con un bel 1:56.828",
+            "headline": "MotoGP, GP Brno: le prove libere in diretta LIVE",
+            "image": [
+                "http://nst.sky.it/etc/designs/skyit/img/sky-logo.png"
+            ],
+            "author": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "publisher": {
+                "@id": "https://www.sky.it/#publisher"
+            },
+            "datePublished": "2018-08-03T10:09:30Z",
+            "dateModified": "2018-08-03T10:09:30Z",
+            "mainEntityOfPage": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html",
+            "url": "https://sport.sky.it/motogp/2018/08/03/motogp-gp-brno-2018-prove-libere-diretta.html#id1135466682",
+            "wordCount": 9
+        }
+    ]
+}

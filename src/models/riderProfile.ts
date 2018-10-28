@@ -34,7 +34,7 @@ export class RiderProfile {
     private height: String;
     private career_summary?: Array<careerSummary>;
     private career_statistics?: Array<careerStatistics>;
-    private bio_profile?: Text;
+    private bio_profile?: String;
 
     constructor() {
         this.name = '';
@@ -68,16 +68,16 @@ export class RiderProfile {
         let weight = data['weight'];
         let height = data['height'];
 
-        this.weight = weight.substr(weight.length - weight.indexOf(':')).trim();
-        this.height = height.substr(height.length - height.indexOf(':')).trim();
+        this.weight = weight ? weight.substr(weight.length - weight.indexOf(':')).trim() : 0;
+        this.height = height ? height.substr(height.length - height.indexOf(':')).trim() : 0;
     }
 
     setBikeImage(image: String){
         this.bike_image = image;
     }
 
-    setBioProfile(text: Text){
-        this.bio_profile = text;
+    setBioProfile(text: String){
+        this.bio_profile = text.replace('Profile\n', '');
     }
 
     addCareerSummary(title: string, value1: number, value2: number, value3: number, value4: number) {

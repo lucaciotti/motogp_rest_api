@@ -1,0 +1,2517 @@
+{
+    "videos": [
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266038",
+            "title": "Two wheels, one dream, one passion, one vision!",
+            "title_en": "Two wheels, one dream, one passion, one vision!",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 10,
+            "video_ssid": 0,
+            "duration": "29",
+            "duration_range": "<1",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "MONSTER ENERGY GRAND PRIX \u010cESK\u00c9 REPUBLIKY",
+            "refresh_time": 80,
+            "event": "CZE",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/30\/two-wheels-one-dream-one-passion-one-vision\/266038",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/30\/two-wheels-one-dream-one-passion-one-vision\/266038",
+            "event_url": "Czech Republic",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "29",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=102470566dfd4bbc729df5474d7a38c12a9db4130beb5c226b07a260ea492632",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=102470566dfd4bbc729df5474d7a38c12a9db4130beb5c226b07a260ea492632",
+                                    "quality": [
+                                        {
+                                            "bitrate": "315000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601856"
+                                        },
+                                        {
+                                            "bitrate": "753000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601857"
+                                        },
+                                        {
+                                            "bitrate": "1127000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601855"
+                                        },
+                                        {
+                                            "bitrate": "2155000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601854"
+                                        },
+                                        {
+                                            "bitrate": "4440000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601853"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266031",
+            "title": "Where's the best place to pass at the Czech GP?",
+            "title_en": "Where's the best place to pass at the Czech GP?",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 10,
+            "video_ssid": 0,
+            "duration": "86",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "MONSTER ENERGY GRAND PRIX \u010cESK\u00c9 REPUBLIKY",
+            "refresh_time": 80,
+            "event": "CZE",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/30\/where-s-the-best-place-to-pass-at-the-czech-gp\/266031",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/30\/where-s-the-best-place-to-pass-at-the-czech-gp\/266031",
+            "event_url": "Czech Republic",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/25\/3003_10_cze_hotspots.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/25\/3003_10_cze_hotspots.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/25\/3003_10_cze_hotspots.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/25\/3003_10_cze_hotspots.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "en",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "86",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_FHD_50pCH12.mp4,*~hmac=7f646a35f9f4a2c890f82aa3f6e784b9003599cd0cf827b9ffe6b6759b530987",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "vlang": "es",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "86",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_FHD_50pCH12.mp4,*~hmac=c4d0c4554620a764a6a8e6d821de8a48bbfe0179ac3bba516a3e7fa0dd2fe953",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "vlang": "fr",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "86",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_FHD_50pCH12.mp4,*~hmac=f44e830e496f666bb6a0d63166ca77d0f40c9b56cdcfcaa330aefc7175643bab",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "en",
+                            "lang_string": "English",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_en_WEB_MGP_FHD_50pCH12.mp4,*~hmac=7f646a35f9f4a2c890f82aa3f6e784b9003599cd0cf827b9ffe6b6759b530987",
+                                    "quality": [
+                                        {
+                                            "bitrate": "363000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601638"
+                                        },
+                                        {
+                                            "bitrate": "876000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601639"
+                                        },
+                                        {
+                                            "bitrate": "1356000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601637"
+                                        },
+                                        {
+                                            "bitrate": "2603000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601636"
+                                        },
+                                        {
+                                            "bitrate": "5261000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601635"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "lang": "es",
+                            "lang_string": "Espa\u00f1ol",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_es_WEB_MGP_FHD_50pCH12.mp4,*~hmac=c4d0c4554620a764a6a8e6d821de8a48bbfe0179ac3bba516a3e7fa0dd2fe953",
+                                    "quality": [
+                                        {
+                                            "bitrate": "363000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601643"
+                                        },
+                                        {
+                                            "bitrate": "876000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601644"
+                                        },
+                                        {
+                                            "bitrate": "1357000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601642"
+                                        },
+                                        {
+                                            "bitrate": "2604000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601641"
+                                        },
+                                        {
+                                            "bitrate": "5262000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601640"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "lang": "fr",
+                            "lang_string": "Fran\u00e7ais",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_LR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_ST_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HR_50pCH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_HD_50p_CH12.mp4,2018\/07\/25\/3003_10_CZE_Hotspots_fr_WEB_MGP_FHD_50pCH12.mp4,*~hmac=f44e830e496f666bb6a0d63166ca77d0f40c9b56cdcfcaa330aefc7175643bab",
+                                    "quality": [
+                                        {
+                                            "bitrate": "363000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601648"
+                                        },
+                                        {
+                                            "bitrate": "877000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601649"
+                                        },
+                                        {
+                                            "bitrate": "1356000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601647"
+                                        },
+                                        {
+                                            "bitrate": "2605000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601646"
+                                        },
+                                        {
+                                            "bitrate": "5263000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601645"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": false,
+            "access": "free_registered",
+            "is_free": true,
+            "video_nid": "265918",
+            "title": "Factory Teams talk about the challenges at the Czech GP",
+            "title_en": "Factory Teams talk about the challenges at the Czech GP",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 10,
+            "video_ssid": 0,
+            "duration": "134",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "MONSTER ENERGY GRAND PRIX \u010cESK\u00c9 REPUBLIKY",
+            "refresh_time": 80,
+            "event": "CZE",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/30\/factory-teams-talk-about-the-challenges-at-the-czech-gp\/265918",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/30\/factory-teams-talk-about-the-challenges-at-the-czech-gp\/265918",
+            "event_url": "Czech Republic",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/17\/2018_mgp_10_cze_technicalpreview_en.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/17\/2018_mgp_10_cze_technicalpreview_en.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/17\/2018_mgp_10_cze_technicalpreview_en.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/17\/2018_mgp_10_cze_technicalpreview_en.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "en",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "134",
+                                    "m3u8": "",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "en",
+                            "lang_string": "English",
+                            "feed_version": [
+                                {
+                                    "user_access": "0",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,*~hmac=3e20de861d5972702f947efef51cabf8f1a562fdf7fbf517e5977fc73cae2cc4",
+                                    "quality": [
+                                        {
+                                            "bitrate": "372000",
+                                            "role": "free_registered",
+                                            "qt": "low",
+                                            "version": "8599017"
+                                        },
+                                        {
+                                            "bitrate": "907000",
+                                            "role": "free_registered",
+                                            "qt": "360p",
+                                            "version": "8599018"
+                                        },
+                                        {
+                                            "bitrate": "1371000",
+                                            "role": "free_registered",
+                                            "qt": "540p",
+                                            "version": "8599016"
+                                        },
+                                        {
+                                            "bitrate": "2622000",
+                                            "role": "free_registered",
+                                            "qt": "720p",
+                                            "version": "8599015"
+                                        },
+                                        {
+                                            "bitrate": "5312000",
+                                            "role": "free_registered",
+                                            "qt": "1080p",
+                                            "version": "8599014"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266054",
+            "title": "Lights on! Challenge #3 in Qatar is go!",
+            "title_en": "Lights on! Challenge #3 in Qatar is go!",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "35",
+            "duration_range": "<1",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/26\/lights-on-challenge-3-in-qatar-is-go\/266054",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/26\/lights-on-challenge-3-in-qatar-is-go\/266054",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_challenge_presentation_qat_aleix_movistar.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_challenge_presentation_qat_aleix_movistar.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_challenge_presentation_qat_aleix_movistar.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_challenge_presentation_qat_aleix_movistar.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "35",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=11a4b2f231f75bd6276c71df0726f7e8c0e5b371454b70fec07b5d826dd14c6e",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_Challenge_Presentation_QAT_Aleix_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=11a4b2f231f75bd6276c71df0726f7e8c0e5b371454b70fec07b5d826dd14c6e",
+                                    "quality": [
+                                        {
+                                            "bitrate": "373000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8602297"
+                                        },
+                                        {
+                                            "bitrate": "872000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8602298"
+                                        },
+                                        {
+                                            "bitrate": "1313000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8602296"
+                                        },
+                                        {
+                                            "bitrate": "2498000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8602295"
+                                        },
+                                        {
+                                            "bitrate": "4917000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8602294"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266052",
+            "title": "Aleix Espargaro explains how to light it up around Losail",
+            "title_en": "Aleix Espargaro explains how to light it up around Losail",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "142",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/26\/aleix-espargaro-explains-how-to-light-it-up-around-losail\/266052",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/26\/aleix-espargaro-explains-how-to-light-it-up-around-losail\/266052",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_riders_playing_l341_espargaro_bmw.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_riders_playing_l341_espargaro_bmw.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_riders_playing_l341_espargaro_bmw.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/26\/03_riders_playing_l341_espargaro_bmw.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "142",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=c2370334fde2a62b638a3875ee8b3474c09889a8fc4d6d89747e39b817950556",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/03_RIDERS_PLAYING_L341_ESPARGARO_BMW_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=c2370334fde2a62b638a3875ee8b3474c09889a8fc4d6d89747e39b817950556",
+                                    "quality": [
+                                        {
+                                            "bitrate": "356000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8602235"
+                                        },
+                                        {
+                                            "bitrate": "845000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8602236"
+                                        },
+                                        {
+                                            "bitrate": "1275000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8602234"
+                                        },
+                                        {
+                                            "bitrate": "2409000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8602233"
+                                        },
+                                        {
+                                            "bitrate": "4831000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8602232"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266016",
+            "title": "Bradley Smith shows us Sachsenring\u2019s secrets",
+            "title_en": "Bradley Smith shows us Sachsenring\u2019s secrets",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "108",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/26\/bradley-smith-shows-us-sachsenring-s-secrets\/266016",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/26\/bradley-smith-shows-us-sachsenring-s-secrets\/266016",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_riders_playing_l338_smith_bmv.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_riders_playing_l338_smith_bmv.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_riders_playing_l338_smith_bmv.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_riders_playing_l338_smith_bmv.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "108",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_LR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_ST_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HD_50p_CH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_FHD_50pCH12.1.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_LR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_ST_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HD_50p_CH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_FHD_50pCH12.1.mp4,*~hmac=c1614cd90840c549a58e87e9f059a82238ef255bcfb027acbfc5e5e3985f4caa",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_LR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_ST_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HD_50p_CH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_FHD_50pCH12.1.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_LR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_ST_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HR_50pCH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_HD_50p_CH12.1.mp4,2018\/07\/24\/02_RIDERS_PLAYING_L338_SMITH_BMW_WEB_CLEAN_FHD_50pCH12.1.mp4,*~hmac=c1614cd90840c549a58e87e9f059a82238ef255bcfb027acbfc5e5e3985f4caa",
+                                    "quality": [
+                                        {
+                                            "bitrate": "351000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601194"
+                                        },
+                                        {
+                                            "bitrate": "841000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601195"
+                                        },
+                                        {
+                                            "bitrate": "1275000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601193"
+                                        },
+                                        {
+                                            "bitrate": "2422000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601192"
+                                        },
+                                        {
+                                            "bitrate": "4887000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601191"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266019",
+            "title": "Smith comparison lap: MotoGP18 vs real life!",
+            "title_en": "Smith comparison lap: MotoGP18 vs real life!",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "94",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/24\/smith-comparison-lap-motogp18-vs-real-life\/266019",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/24\/smith-comparison-lap-motogp18-vs-real-life\/266019",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_on_board_comparision_ger_smith_cashback.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_on_board_comparision_ger_smith_cashback.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_on_board_comparision_ger_smith_cashback.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_on_board_comparision_ger_smith_cashback.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "94",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=7851cacc822411472a8fc62ede0e7a4ddfee481160b19de3987f9ee7dd7616bd",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_On_Board_Comparision_GER_Smith_CashBack_V2_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=7851cacc822411472a8fc62ede0e7a4ddfee481160b19de3987f9ee7dd7616bd",
+                                    "quality": [
+                                        {
+                                            "bitrate": "353000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601287"
+                                        },
+                                        {
+                                            "bitrate": "841000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601288"
+                                        },
+                                        {
+                                            "bitrate": "1276000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601286"
+                                        },
+                                        {
+                                            "bitrate": "2413000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601285"
+                                        },
+                                        {
+                                            "bitrate": "4865000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601284"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266018",
+            "title": "Demo Lap: A lap of the Sachsenring on MotoGP18 with Bradley Smith",
+            "title_en": "Demo Lap: A lap of the Sachsenring on MotoGP18 with Bradley Smith",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "96",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/24\/demo-lap-a-lap-of-the-sachsenring-on-motogp18-with-bradley-smith\/266018",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/24\/demo-lap-a-lap-of-the-sachsenring-on-motogp18-with-bradley-smith\/266018",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_reference_lap_smith_ger_michelin.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_reference_lap_smith_ger_michelin.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_reference_lap_smith_ger_michelin.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_reference_lap_smith_ger_michelin.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "96",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=f22f7a7914c0afdd2c35b571a0411e08cdcf8018d4ee524f20941ff5e8ba2c23",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_REFERENCE_LAP_SMITH_GER_MICHELIN_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=f22f7a7914c0afdd2c35b571a0411e08cdcf8018d4ee524f20941ff5e8ba2c23",
+                                    "quality": [
+                                        {
+                                            "bitrate": "348000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601256"
+                                        },
+                                        {
+                                            "bitrate": "828000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601257"
+                                        },
+                                        {
+                                            "bitrate": "1260000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601255"
+                                        },
+                                        {
+                                            "bitrate": "2393000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601254"
+                                        },
+                                        {
+                                            "bitrate": "4843000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601253"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266017",
+            "title": "Challenge #2 is underway! Sachsenring awaits \u2013 are you ready?",
+            "title_en": "Challenge #2 is underway! Sachsenring awaits \u2013 are you ready?",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "35",
+            "duration_range": "<1",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/24\/challenge-2-is-underway-sachsenring-awaits-are-you-ready\/266017",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/24\/challenge-2-is-underway-sachsenring-awaits-are-you-ready\/266017",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_challenge_presentation_ger_smith_movistar.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_challenge_presentation_ger_smith_movistar.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_challenge_presentation_ger_smith_movistar.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/24\/02_challenge_presentation_ger_smith_movistar.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "35",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=c54352e8a1a977134968f012d2a849340239a32149f596e529fe3033bef6c692",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206062~exp=1533216862~acl=\/i\/,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/24\/02_Challenge_Presentation_GER_Smith_MOVISTAR_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=c54352e8a1a977134968f012d2a849340239a32149f596e529fe3033bef6c692",
+                                    "quality": [
+                                        {
+                                            "bitrate": "373000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601225"
+                                        },
+                                        {
+                                            "bitrate": "875000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601226"
+                                        },
+                                        {
+                                            "bitrate": "1313000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601224"
+                                        },
+                                        {
+                                            "bitrate": "2496000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601223"
+                                        },
+                                        {
+                                            "bitrate": "4891000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601222"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "isGallery": false,
+    "isPlaylist": false
+}
+
+{
+    "videos": [
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266214",
+            "title": "Czech GP: Best Videos",
+            "title_en": "Czech GP: Best Videos",
+            "type": "video",
+            "video_type": 34,
+            "video_type_name": "playlist",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 10,
+            "video_ssid": 3,
+            "duration": "",
+            "duration_range": "<1",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "MONSTER ENERGY GRAND PRIX \u010cESK\u00c9 REPUBLIKY",
+            "refresh_time": 80,
+            "event": "CZE",
+            "category": "MotoGP",
+            "session": "FP3",
+            "video_url": "video_gallery\/2018\/08\/02\/czech-gp-best-videos\/266214",
+            "landing": "http:\/\/www.motogp.com\/en\/video_gallery\/2018\/08\/02\/czech-gp-best-videos\/266214",
+            "event_url": "Czech Republic",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/08\/02\/top_0.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/08\/02\/top_0.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/08\/02\/top_0.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/08\/02\/top_0.gallery_full_top_lg.jpg",
+            "aspect": "",
+            "keywords": [],
+            "video_data": [
+                null
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": []
+            },
+            "platform": []
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266204",
+            "title": "What happened last year at the Automotodrom Brno?",
+            "title_en": "What happened last year at the Automotodrom Brno?",
+            "type": "video",
+            "video_type": 2,
+            "video_type_name": "interviews",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 10,
+            "video_ssid": 0,
+            "duration": "248",
+            "duration_range": "3-6",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "MONSTER ENERGY GRAND PRIX \u010cESK\u00c9 REPUBLIKY",
+            "refresh_time": 80,
+            "event": "CZE",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/08\/02\/what-happened-last-year-at-the-automotodrom-brno\/266204",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/08\/02\/what-happened-last-year-at-the-automotodrom-brno\/266204",
+            "event_url": "Czech Republic",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/08\/02\/3006_10_2018_cze_mgp_rewind_michelin.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/08\/02\/3006_10_2018_cze_mgp_rewind_michelin.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/08\/02\/3006_10_2018_cze_mgp_rewind_michelin.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/08\/02\/3006_10_2018_cze_mgp_rewind_michelin.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "248",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_ST_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HR_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HD_50p_CH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206321~exp=1533217121~acl=\/i\/,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_ST_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HR_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HD_50p_CH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=83e38a90e7d3a18cd9d1cfd16d966d1148117fc58d0c150e20cf61e36c1314fa",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253DmichelinHISTORICAL",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253DmichelinHISTORICAL"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_ST_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HR_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HD_50p_CH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206321~exp=1533217121~acl=\/i\/,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_ST_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HR_50pCH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_HD_50p_CH12.mp4,2018\/08\/02\/3006_10_2018_CZE_MGP_Rewind_Michelin_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=83e38a90e7d3a18cd9d1cfd16d966d1148117fc58d0c150e20cf61e36c1314fa",
+                                    "quality": [
+                                        {
+                                            "bitrate": "870000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8607716"
+                                        },
+                                        {
+                                            "bitrate": "1321000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8607715"
+                                        },
+                                        {
+                                            "bitrate": "2530000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8607714"
+                                        },
+                                        {
+                                            "bitrate": "5130000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8607713"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": false,
+            "access": "free_registered",
+            "is_free": true,
+            "video_nid": "266032",
+            "title": "How do the front springs affect the behaviour of the bike?",
+            "title_en": "How do the front springs affect the behaviour of the bike?",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "60",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/25\/how-do-the-front-springs-affect-the-behaviour-of-the-bike\/266032",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/25\/how-do-the-front-springs-affect-the-behaviour-of-the-bike\/266032",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/25\/10_cze_front-spring-combination.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/25\/10_cze_front-spring-combination.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/25\/10_cze_front-spring-combination.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/25\/10_cze_front-spring-combination.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "60",
+                                    "m3u8": "",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "0",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,.csmil\/master.m3u8?hdnea=st=1533206321~exp=1533217121~acl=\/i\/,*~hmac=1aaac3f5d4d9e41aab8bc6a87fd225dc1d44f68dc66fc4fa39af1b31248eee28",
+                                    "quality": [
+                                        {
+                                            "bitrate": "357000",
+                                            "role": "free_registered",
+                                            "qt": "low",
+                                            "version": "8601679"
+                                        },
+                                        {
+                                            "bitrate": "869000",
+                                            "role": "free_registered",
+                                            "qt": "360p",
+                                            "version": "8601680"
+                                        },
+                                        {
+                                            "bitrate": "1325000",
+                                            "role": "free_registered",
+                                            "qt": "540p",
+                                            "version": "8601678"
+                                        },
+                                        {
+                                            "bitrate": "2514000",
+                                            "role": "free_registered",
+                                            "qt": "720p",
+                                            "version": "8601677"
+                                        },
+                                        {
+                                            "bitrate": "5019000",
+                                            "role": "free_registered",
+                                            "qt": "1080p",
+                                            "version": "8601676"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": false,
+            "access": "normal",
+            "is_free": false,
+            "video_nid": "265901",
+            "title": "Cecchinello and Ueda: a shared history",
+            "title_en": "Cecchinello and Ueda: a shared history",
+            "type": "video",
+            "video_type": 24,
+            "video_type_name": "feature",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 9,
+            "video_ssid": 0,
+            "duration": "125",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "PRAMAC MOTORRAD GRAND PRIX DEUTSCHLAND",
+            "refresh_time": 80,
+            "event": "GER",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/17\/cecchinello-and-ueda-a-shared-history\/265901",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/17\/cecchinello-and-ueda-a-shared-history\/265901",
+            "event_url": "Germany",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/17\/10pp01-flashback-ueda-cecchinello.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/17\/10pp01-flashback-ueda-cecchinello.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/17\/10pp01-flashback-ueda-cecchinello.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/17\/10pp01-flashback-ueda-cecchinello.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "en",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "125",
+                                    "m3u8": "",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "en",
+                            "lang_string": "English",
+                            "feed_version": [
+                                {
+                                    "user_access": "0",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,.csmil\/master.m3u8?hdnea=st=1533206321~exp=1533217121~acl=\/i\/,*~hmac=1aaac3f5d4d9e41aab8bc6a87fd225dc1d44f68dc66fc4fa39af1b31248eee28",
+                                    "quality": [
+                                        {
+                                            "bitrate": "357000",
+                                            "role": "normal",
+                                            "qt": "low",
+                                            "version": "8597819"
+                                        },
+                                        {
+                                            "bitrate": "865000",
+                                            "role": "normal",
+                                            "qt": "360p",
+                                            "version": "8597820"
+                                        },
+                                        {
+                                            "bitrate": "1313000",
+                                            "role": "normal",
+                                            "qt": "540p",
+                                            "version": "8597818"
+                                        },
+                                        {
+                                            "bitrate": "2512000",
+                                            "role": "normal",
+                                            "qt": "720p",
+                                            "version": "8597817"
+                                        },
+                                        {
+                                            "bitrate": "5151000",
+                                            "role": "normal",
+                                            "qt": "1080p",
+                                            "version": "8597816"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": false,
+            "access": "normal",
+            "is_free": false,
+            "video_nid": "265963",
+            "title": "\"KTM is not about dreamers, it is about realistic people\"",
+            "title_en": "\"KTM is not about dreamers, it is about realistic people\"",
+            "type": "video",
+            "video_type": 19,
+            "video_type_name": "workshop",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "224",
+            "duration_range": "3-6",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/08\/01\/ktm-is-not-about-dreamers-it-is-about-realistic-people\/265963",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/08\/01\/ktm-is-not-about-dreamers-it-is-about-realistic-people\/265963",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/08\/01\/_ds05323_0.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/08\/01\/_ds05323_0.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/08\/01\/_ds05323_0.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/08\/01\/_ds05323_0.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "en",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "224",
+                                    "m3u8": "",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": {
+                    "23": {
+                        "name": "Red Bull KTM Factory Racing",
+                        "tid": "23",
+                        "sid": "2018"
+                    }
+                },
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "en",
+                            "lang_string": "English",
+                            "feed_version": [
+                                {
+                                    "user_access": "0",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,.csmil\/master.m3u8?hdnea=st=1533206321~exp=1533217121~acl=\/i\/,*~hmac=1aaac3f5d4d9e41aab8bc6a87fd225dc1d44f68dc66fc4fa39af1b31248eee28",
+                                    "quality": [
+                                        {
+                                            "bitrate": "356000",
+                                            "role": "normal",
+                                            "qt": "low",
+                                            "version": "8599616"
+                                        },
+                                        {
+                                            "bitrate": "874000",
+                                            "role": "normal",
+                                            "qt": "360p",
+                                            "version": "8599617"
+                                        },
+                                        {
+                                            "bitrate": "1323000",
+                                            "role": "normal",
+                                            "qt": "540p",
+                                            "version": "8599615"
+                                        },
+                                        {
+                                            "bitrate": "2536000",
+                                            "role": "normal",
+                                            "qt": "720p",
+                                            "version": "8599614"
+                                        },
+                                        {
+                                            "bitrate": "5160000",
+                                            "role": "normal",
+                                            "qt": "1080p",
+                                            "version": "8599613"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": false,
+            "access": "normal",
+            "is_free": false,
+            "video_nid": "265945",
+            "title": "KTM: The long road from Red Bull Rookies to MotoGP\u2122",
+            "title_en": "KTM: The long road from Red Bull Rookies to MotoGP\u2122",
+            "type": "video",
+            "video_type": 24,
+            "video_type_name": "feature",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "226",
+            "duration_range": "3-6",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/18\/ktm-the-long-road-from-red-bull-rookies-to-motogp\/265945",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/18\/ktm-the-long-road-from-red-bull-rookies-to-motogp\/265945",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/18\/10pp06-upncoming-ktm-road-to-motogp.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/18\/10pp06-upncoming-ktm-road-to-motogp.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/18\/10pp06-upncoming-ktm-road-to-motogp.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/18\/10pp06-upncoming-ktm-road-to-motogp.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "en",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "226",
+                                    "m3u8": "",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "en",
+                            "lang_string": "English",
+                            "feed_version": [
+                                {
+                                    "user_access": "0",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,.csmil\/master.m3u8?hdnea=st=1533206321~exp=1533217121~acl=\/i\/,*~hmac=1aaac3f5d4d9e41aab8bc6a87fd225dc1d44f68dc66fc4fa39af1b31248eee28",
+                                    "quality": [
+                                        {
+                                            "bitrate": "354000",
+                                            "role": "normal",
+                                            "qt": "low",
+                                            "version": "8598987"
+                                        },
+                                        {
+                                            "bitrate": "866000",
+                                            "role": "normal",
+                                            "qt": "360p",
+                                            "version": "8598988"
+                                        },
+                                        {
+                                            "bitrate": "1312000",
+                                            "role": "normal",
+                                            "qt": "540p",
+                                            "version": "8598986"
+                                        },
+                                        {
+                                            "bitrate": "2524000",
+                                            "role": "normal",
+                                            "qt": "720p",
+                                            "version": "8598985"
+                                        },
+                                        {
+                                            "bitrate": "5200000",
+                                            "role": "normal",
+                                            "qt": "1080p",
+                                            "version": "8598984"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": false,
+            "access": "normal",
+            "is_free": false,
+            "video_nid": "265902",
+            "title": "Abraham, looking for a good bike in Moto2\u2122 or MotoGP\u2122",
+            "title_en": "Abraham, looking for a good bike in Moto2\u2122 or MotoGP\u2122",
+            "type": "video",
+            "video_type": 24,
+            "video_type_name": "feature",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "191",
+            "duration_range": "3-6",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/31\/abraham-looking-for-a-good-bike-in-moto2-or-motogp\/265902",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/31\/abraham-looking-for-a-good-bike-in-moto2-or-motogp\/265902",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/31\/_ds05082_1.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/31\/_ds05082_1.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/31\/_ds05082_1.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/31\/_ds05082_1.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "en",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "191",
+                                    "m3u8": "",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    {
+                        "6867": {
+                            "name": "Karel",
+                            "surname": "ABRAHAM",
+                            "rid": "6867",
+                            "fullname": "Karel Abraham"
+                        }
+                    }
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "en",
+                            "lang_string": "English",
+                            "feed_version": [
+                                {
+                                    "user_access": "0",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,.csmil\/master.m3u8?hdnea=st=1533206321~exp=1533217121~acl=\/i\/,*~hmac=1aaac3f5d4d9e41aab8bc6a87fd225dc1d44f68dc66fc4fa39af1b31248eee28",
+                                    "quality": [
+                                        {
+                                            "bitrate": "361000",
+                                            "role": "normal",
+                                            "qt": "low",
+                                            "version": "8597850"
+                                        },
+                                        {
+                                            "bitrate": "885000",
+                                            "role": "normal",
+                                            "qt": "360p",
+                                            "version": "8597851"
+                                        },
+                                        {
+                                            "bitrate": "1341000",
+                                            "role": "normal",
+                                            "qt": "540p",
+                                            "version": "8597849"
+                                        },
+                                        {
+                                            "bitrate": "2577000",
+                                            "role": "normal",
+                                            "qt": "720p",
+                                            "version": "8597848"
+                                        },
+                                        {
+                                            "bitrate": "5237000",
+                                            "role": "normal",
+                                            "qt": "1080p",
+                                            "version": "8597847"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266093",
+            "title": "See which riders have taken to the top in Challenge #2!",
+            "title_en": "See which riders have taken to the top in Challenge #2!",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 0,
+            "video_ssid": 0,
+            "duration": "84",
+            "duration_range": "1-3",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "",
+            "refresh_time": 80,
+            "event": "",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/30\/see-which-riders-have-taken-to-the-top-in-challenge-2\/266093",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/30\/see-which-riders-have-taken-to-the-top-in-challenge-2\/266093",
+            "event_url": "",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/30\/02_best_lap_ger_smith_adriaan_26_tarradellas.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/30\/02_best_lap_ger_smith_adriaan_26_tarradellas.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/30\/02_best_lap_ger_smith_adriaan_26_tarradellas.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/30\/02_best_lap_ger_smith_adriaan_26_tarradellas.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "84",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206322~exp=1533217122~acl=\/i\/,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=3892648cec0739e5a95a8b5424ba6288a1c0bd007a06e61d4958513ef649db50",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253Dc.adt%253Desports"
+            },
+            "video_info": {
+                "riders": [
+                    {
+                        "7030": {
+                            "name": "Bradley",
+                            "surname": "SMITH",
+                            "rid": "7030",
+                            "fullname": "Bradley Smith"
+                        }
+                    }
+                ],
+                "teams": {
+                    "23": {
+                        "name": "Red Bull KTM Factory Racing",
+                        "tid": "23",
+                        "sid": "2018"
+                    }
+                },
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206322~exp=1533217122~acl=\/i\/,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/30\/02_Best_Lap_GER_Smith_ADRIAAN_26_TARRADELLAS_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=3892648cec0739e5a95a8b5424ba6288a1c0bd007a06e61d4958513ef649db50",
+                                    "quality": [
+                                        {
+                                            "bitrate": "347000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8603853"
+                                        },
+                                        {
+                                            "bitrate": "820000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8603854"
+                                        },
+                                        {
+                                            "bitrate": "1239000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8603852"
+                                        },
+                                        {
+                                            "bitrate": "2344000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8603851"
+                                        },
+                                        {
+                                            "bitrate": "4747000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8603850"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "permission": true,
+            "access": "free",
+            "is_free": true,
+            "video_nid": "266038",
+            "title": "Two wheels, one dream, one passion, one vision!",
+            "title_en": "Two wheels, one dream, one passion, one vision!",
+            "type": "video",
+            "video_type": 3,
+            "video_type_name": "edit",
+            "video_sid": 2018,
+            "video_cid": 3,
+            "video_eid": 10,
+            "video_ssid": 0,
+            "duration": "29",
+            "duration_range": "<1",
+            "length": "short",
+            "champ_name": "MotoGP",
+            "event_name": "MONSTER ENERGY GRAND PRIX \u010cESK\u00c9 REPUBLIKY",
+            "refresh_time": 80,
+            "event": "CZE",
+            "category": "MotoGP",
+            "session": "",
+            "video_url": "videos\/2018\/07\/30\/two-wheels-one-dream-one-passion-one-vision\/266038",
+            "landing": "http:\/\/www.motogp.com\/en\/videos\/2018\/07\/30\/two-wheels-one-dream-one-passion-one-vision\/266038",
+            "event_url": "Czech Republic",
+            "uid": 0,
+            "available": "true",
+            "urlimage": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.big.jpg",
+            "urlimage_big": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.middle.jpg",
+            "image_url": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.gallery_full_top_md.jpg",
+            "image_url_big": "http:\/\/photos.motogp.com\/2018\/07\/30\/top-2_0.gallery_full_top_lg.jpg",
+            "aspect": "16:9",
+            "keywords": {
+                "40": {
+                    "id": "40",
+                    "keyword": ""
+                }
+            },
+            "video_data": [
+                {
+                    "platform": "akamai",
+                    "langs_content": [
+                        {
+                            "vlang": "other",
+                            "feeds": [
+                                {
+                                    "id": "0",
+                                    "name": "",
+                                    "duration": "29",
+                                    "m3u8": "http:\/\/dorna3.videopassapp.motogp.com\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206322~exp=1533217122~acl=\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=cb04f317a121d3fe0254edb58e0db2b512d51f418a266bba36f6eac76bff99cb",
+                                    "360v_params": {
+                                        "maxlat": 0,
+                                        "minlat": 0,
+                                        "initfov": 0,
+                                        "maxfov": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "360v": false,
+            "commercial": {
+                "promoted": true,
+                "preroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_preroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D",
+                "postroll": "https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fsz%3D400x300%26iu%3D%2F1019194%2Fmotogp_videos_postroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dvast%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3D%5Bdescription_url%5D%26correlator%3D%5Btimestamp%5D%26cust_params%3Dlang%253Den%2526site%253DMotoGP%2526roles%253D%2526ptype%253D%2526activity%253D%2526pids%253D"
+            },
+            "video_info": {
+                "riders": [
+                    []
+                ],
+                "teams": [],
+                "keywords": {
+                    "40": {
+                        "id": "40",
+                        "keyword": ""
+                    }
+                }
+            },
+            "platform": [
+                {
+                    "name": "akamai",
+                    "bumper": {
+                        "url": "extra\/bumper\/bumper_169_hd_v3.mp4",
+                        "bitrate": "650000"
+                    },
+                    "lang_version": [
+                        {
+                            "lang": "other",
+                            "lang_string": "Ambient",
+                            "feed_version": [
+                                {
+                                    "user_access": "1",
+                                    "id": "",
+                                    "m3u8": "http:\/\/dorna1.videopassapp.motogp.com\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,.csmil\/master.m3u8?hdnea=st=1533206322~exp=1533217122~acl=\/i\/,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_LR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_ST_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HR_50pCH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_HD_50p_CH12.mp4,2018\/07\/26\/2018_CZE_Teaser_WEB_CLEAN_FHD_50pCH12.mp4,*~hmac=cb04f317a121d3fe0254edb58e0db2b512d51f418a266bba36f6eac76bff99cb",
+                                    "quality": [
+                                        {
+                                            "bitrate": "315000",
+                                            "role": "free",
+                                            "qt": "low",
+                                            "version": "8601856"
+                                        },
+                                        {
+                                            "bitrate": "753000",
+                                            "role": "free",
+                                            "qt": "360p",
+                                            "version": "8601857"
+                                        },
+                                        {
+                                            "bitrate": "1127000",
+                                            "role": "free",
+                                            "qt": "540p",
+                                            "version": "8601855"
+                                        },
+                                        {
+                                            "bitrate": "2155000",
+                                            "role": "free",
+                                            "qt": "720p",
+                                            "version": "8601854"
+                                        },
+                                        {
+                                            "bitrate": "4440000",
+                                            "role": "free",
+                                            "qt": "1080p",
+                                            "version": "8601853"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "isGallery": false,
+    "isPlaylist": false
+}
