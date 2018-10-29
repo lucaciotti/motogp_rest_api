@@ -109,7 +109,6 @@ export class Circuit {
     }
 
     addMotoGpRecords(type, season, rider_name, rider_num, rider_team, time?, speed?) {
-        this.motogp_circuit_records = [];
         let records: circuitRecords = {
             [type]: {
                 season: season,
@@ -122,47 +121,96 @@ export class Circuit {
                 }
             }
         }
+        if (!this.motogp_circuit_records) {
+            this.motogp_circuit_records = [];
+        }
         this.motogp_circuit_records.push(records);
     }
 
     addMoto2MostWins(rider_name, rider_num, value) {
-        this.moto2_most_wins = [];
         let stats: circuitStatistics = {
             rider_name: rider_name,
             rider_num: rider_num,
             value: value
+        }
+        if (!this.moto2_most_wins) {
+            this.moto2_most_wins = [];
         }
         this.moto2_most_wins.push(stats);
     }
 
     addMoto2MostPoles(rider_name, rider_num, value) {
-        this.moto2_most_poles = [];
         let stats: circuitStatistics = {
             rider_name: rider_name,
             rider_num: rider_num,
             value: value
         }
+        if (!this.moto2_most_poles) {
+            this.moto2_most_poles = [];
+        }
         this.moto2_most_poles.push(stats);
     }
 
+    addMoto2Records(type, season, rider_name, rider_num, rider_team, time?, speed?) {
+        let records: circuitRecords = {
+            [type]: {
+                season: season,
+                rider_name: rider_name,
+                rider_num: rider_num,
+                rider_team: rider_team,
+                value: {
+                    time: time ? time : null,
+                    speed: speed ? speed : null,
+                }
+            }
+        }
+        if (!this.moto2_circuit_records) {
+            this.moto2_circuit_records = [];
+        }
+        this.moto2_circuit_records.push(records);
+    }
+
     addMoto3MostWins(rider_name, rider_num, value) {
-        this.moto3_most_wins = [];
         let stats: circuitStatistics = {
             rider_name: rider_name,
             rider_num: rider_num,
             value: value
+        }
+        if (!this.moto3_most_wins) {
+            this.moto3_most_wins = [];
         }
         this.moto3_most_wins.push(stats);
     }
 
     addMoto3MostPoles(rider_name, rider_num, value) {
-        this.moto3_most_poles = [];
         let stats: circuitStatistics = {
             rider_name: rider_name,
             rider_num: rider_num,
             value: value
         }
+        if (!this.moto3_most_poles) {
+            this.moto3_most_poles = [];
+        }
         this.moto3_most_poles.push(stats);
+    }
+
+    addMoto3Records(type, season, rider_name, rider_num, rider_team, time?, speed?) {
+        let records: circuitRecords = {
+            [type]: {
+                season: season,
+                rider_name: rider_name,
+                rider_num: rider_num,
+                rider_team: rider_team,
+                value: {
+                    time: time ? time : null,
+                    speed: speed ? speed : null,
+                }
+            }
+        }
+        if (!this.moto3_circuit_records) {
+            this.moto3_circuit_records = [];
+        }
+        this.moto3_circuit_records.push(records);
     }
 }
 

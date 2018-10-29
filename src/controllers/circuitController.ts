@@ -124,7 +124,78 @@ export class CircuitController {
                         // console.log(rider_name+" "+rider_number);
                         circuit.addMotoGpMostWins(rider_name, rider_number, value);
                     });
-                    // .attr('data-tab', 'c-event__category-info__motogp')
+                    $('div[data-tab=c-event__category-info__moto2] div.most-wins li').each(function (i, elm) {
+                        let rider_name = $(this).find('div.most-wins__rider-name').text();
+                        let rider_number = $(this).find('div.most-wins__rider-number').text();
+                        let value = $(this).find('div.most-wins__data-value').text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMoto2MostWins(rider_name, rider_number, value);
+                    });
+                    $('div[data-tab=c-event__category-info__moto3] div.most-wins li').each(function (i, elm) {
+                        let rider_name = $(this).find('div.most-wins__rider-name').text();
+                        let rider_number = $(this).find('div.most-wins__rider-number').text();
+                        let value = $(this).find('div.most-wins__data-value').text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMoto3MostWins(rider_name, rider_number, value);
+                    });
+                    $('div[data-tab=c-event__category-info__motogp] div.most-poles li').each(function (i, elm) {
+                        let rider_name = $(this).find('div.most-poles__rider-name').text();
+                        let rider_number = $(this).find('div.most-poles__rider-number').text();
+                        let value = $(this).find('div.most-poles__data-value').text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMotoGpMostPoles(rider_name, rider_number, value);
+                    });
+                    $('div[data-tab=c-event__category-info__moto2] div.most-poles li').each(function (i, elm) {
+                        let rider_name = $(this).find('div.most-poles__rider-name').text();
+                        let rider_number = $(this).find('div.most-poles__rider-number').text();
+                        let value = $(this).find('div.most-poles__data-value').text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMoto2MostPoles(rider_name, rider_number, value);
+                    });
+                    $('div[data-tab=c-event__category-info__moto3] div.most-poles li').each(function (i, elm) {
+                        let rider_name = $(this).find('div.most-poles__rider-name').text();
+                        let rider_number = $(this).find('div.most-poles__rider-number').text();
+                        let value = $(this).find('div.most-poles__data-value').text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMoto3MostPoles(rider_name, rider_number, value);
+                    });
+
+                    $('div[data-tab=c-event__category-info__motogp] div.circuit-records li').each(function (i, elm) {
+                        let type = $(this).find('div.circuit-records__title_container div.circuit-records__subtitle').text();
+                        let season = $(this).find('div.circuit-records__title_container div.circuit-records__season').text();
+                        let rider_name = $(this).find('div.circuit-records__rider_name').text();
+                        let rider_team = $(this).find('div.circuit-records__rider_team').text();
+                        let rider_number = $(this).find('div.circuit-records__rider_number').text();
+                        let time = $(this).find('div.circuit-records__value').first().text();
+                        let value = $(this).find('div.circuit-records__value').last().text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMotoGpRecords(type, season, rider_name, rider_number, rider_team, time, value);
+                    });
+
+                    $('div[data-tab=c-event__category-info__moto2] div.circuit-records li').each(function (i, elm) {
+                        let type = $(this).find('div.circuit-records__title_container div.circuit-records__subtitle').text();
+                        let season = $(this).find('div.circuit-records__title_container div.circuit-records__season').text();
+                        let rider_name = $(this).find('div.circuit-records__rider_name').text();
+                        let rider_team = $(this).find('div.circuit-records__rider_team').text();
+                        let rider_number = $(this).find('div.circuit-records__rider_number').text();
+                        let time = $(this).find('div.circuit-records__value').first().text();
+                        let value = $(this).find('div.circuit-records__value').last().text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMoto2Records(type, season, rider_name, rider_number, rider_team, time, value);
+                    });
+
+                    $('div[data-tab=c-event__category-info__moto3] div.circuit-records li').each(function (i, elm) {
+                        let type = $(this).find('div.circuit-records__title_container div.circuit-records__subtitle').text();
+                        let season = $(this).find('div.circuit-records__title_container div.circuit-records__season').text();
+                        let rider_name = $(this).find('div.circuit-records__rider_name').text();
+                        let rider_team = $(this).find('div.circuit-records__rider_team').text();
+                        let rider_number = $(this).find('div.circuit-records__rider_number').text();
+                        let time = $(this).find('div.circuit-records__value').first().text();
+                        let value = $(this).find('div.circuit-records__value').last().text();
+                        // console.log(rider_name+" "+rider_number);
+                        circuit.addMoto3Records(type, season, rider_name, rider_number, rider_team, time, value);
+                    });
+
                     res.json(circuit);
                 } catch (exeption) {
                     console.log(exeption);
@@ -135,12 +206,3 @@ export class CircuitController {
 
     }
 }
-
-
-                    // $('div.c-event__destination-guide body').each(function (i, elm) {
-                    //     let location = $(this).find('h2 c-widget--title').text();
-                    //     let descrizion = $(this).find('div.c-windget__text').text();
-                    //     let www_site = $(this).find('div.c-windget__text-right').text();
-                    //     let weather_suggestion = $(this).find('div.c-windget__text--emergency').text();
-                    //     console.log(location + " " + descrizion + " " + www_site + " " + weather_suggestion);
-                    // });
