@@ -1,1 +1,1 @@
-web: node dist/server.js PORT=8081
+web: node dist/server.js
