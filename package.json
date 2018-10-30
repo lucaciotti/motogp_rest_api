@@ -6,8 +6,8 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "dev": "nodemon",
-    "start": "ts-node --inspect=5858 src/server.ts",
+    "dev": "nodemon ts-node --inspect=5858 src/server.ts",
+    "start": "node dist/server.js",
     "prod": "npm run build && npm run start"
   },
   "author": "Luca Ciotti",
