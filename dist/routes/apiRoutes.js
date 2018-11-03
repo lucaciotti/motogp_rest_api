@@ -4,12 +4,14 @@ const ridersController_1 = require("./../controllers/ridersController");
 const calendarController_1 = require("./../controllers/calendarController");
 const teamController_1 = require("./../controllers/teamController");
 const circuitController_1 = require("./../controllers/circuitController");
+const eventResultController_1 = require("./../controllers/eventResultController");
 class Routes {
     constructor(router) {
         this.ridersController = new ridersController_1.RidersController();
         this.calendarController = new calendarController_1.CalendarController();
         this.teamController = new teamController_1.TeamController();
         this.circuitController = new circuitController_1.CircuitController();
+        this.eventResultController = new eventResultController_1.eventResultController();
         this.router = router;
     }
     routes(app) {
@@ -30,6 +32,8 @@ class Routes {
             .get(this.calendarController.getCalendar);
         this.router.route('/circuit/:circuit?')
             .get(this.circuitController.getCircuit);
+        this.router.route('/eventResult/:esercizio?/:event?/:category?/:session?')
+            .get(this.eventResultController.getEventResult);
     }
 }
 exports.Routes = Routes;
