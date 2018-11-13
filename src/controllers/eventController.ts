@@ -1,10 +1,10 @@
 import { Request, Response } from "express";
-import { eventResult } from './../models/eventResult';
+import { eventResult } from '../models/eventResult';
 
 const httpRequest = require('request');
 const cheerio = require('cheerio');
 
-export class eventResultController {
+export class eventController {
 
     public getEventResult(req: Request, res: Response) {
         let lang = req.query.lang ? req.query.lang : 'en';
@@ -39,6 +39,7 @@ export class eventResultController {
                     let speed;
                     let time;                    
                     $('table').first().find('tbody tr').each(function (j, elm) {
+                        rider_name = '';
                         $(this).find('td').each(function (i, elm) {
                             if (!hasPoints && i>0) i++;
                             switch (i) {
@@ -80,7 +81,9 @@ export class eventResultController {
                                 }
                             }
                         });
-                        eventRes.addRanking(rider_name, rider_num, rider_team, rider_nation, bike, position, speed, time, points);
+                        if (rider_name!=''){
+                            eventRes.addRanking(rider_name, rider_num, rider_team, rider_nation, bike, position, speed, time, points);
+                        }
                     });
 
                     let air_temp;
@@ -137,4 +140,8 @@ export class eventResultController {
         });
 
     }
+
+    // public getEventFile{
+    // http://www.motogp.com/en/ajax/results/files/2018/MAL/MotoGP/RAC
+    // }
 }

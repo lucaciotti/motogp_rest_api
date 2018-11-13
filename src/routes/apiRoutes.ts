@@ -4,7 +4,8 @@ import { RidersController } from './../controllers/ridersController';
 import { CalendarController } from './../controllers/calendarController';
 import { TeamController } from './../controllers/teamController';
 import { CircuitController } from './../controllers/circuitController';
-import { eventResultController } from './../controllers/eventResultController';
+import { eventController } from './../controllers/eventController';
+import { finalRankController } from './../controllers/finalRankController';
 
 export class Routes {
 
@@ -12,7 +13,8 @@ export class Routes {
     public calendarController: CalendarController = new CalendarController();
     public teamController: TeamController = new TeamController();
     public circuitController: CircuitController = new CircuitController();
-    public eventResultController: eventResultController = new eventResultController();
+    public eventController: eventController = new eventController();
+    public finalRankController: finalRankController = new finalRankController();
 
     public router: Router;
 
@@ -46,6 +48,9 @@ export class Routes {
             .get(this.circuitController.getCircuit);
 
         this.router.route('/eventResult/:esercizio?/:event?/:category?/:session?')
-            .get(this.eventResultController.getEventResult);
+            .get(this.eventController.getEventResult);
+
+        this.router.route('/finalRanking/:esercizio?/:event?/:category?')
+            .get(this.finalRankController.getFinalRank);
     }
 }
