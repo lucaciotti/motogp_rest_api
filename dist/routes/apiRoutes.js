@@ -4,14 +4,16 @@ const ridersController_1 = require("./../controllers/ridersController");
 const calendarController_1 = require("./../controllers/calendarController");
 const teamController_1 = require("./../controllers/teamController");
 const circuitController_1 = require("./../controllers/circuitController");
-const eventResultController_1 = require("./../controllers/eventResultController");
+const eventController_1 = require("./../controllers/eventController");
+const finalRankController_1 = require("./../controllers/finalRankController");
 class Routes {
     constructor(router) {
         this.ridersController = new ridersController_1.RidersController();
         this.calendarController = new calendarController_1.CalendarController();
         this.teamController = new teamController_1.TeamController();
         this.circuitController = new circuitController_1.CircuitController();
-        this.eventResultController = new eventResultController_1.eventResultController();
+        this.eventController = new eventController_1.eventController();
+        this.finalRankController = new finalRankController_1.finalRankController();
         this.router = router;
     }
     routes(app) {
@@ -33,7 +35,9 @@ class Routes {
         this.router.route('/circuit/:circuit?')
             .get(this.circuitController.getCircuit);
         this.router.route('/eventResult/:esercizio?/:event?/:category?/:session?')
-            .get(this.eventResultController.getEventResult);
+            .get(this.eventController.getEventResult);
+        this.router.route('/finalRanking/:esercizio?/:event?/:category?')
+            .get(this.finalRankController.getFinalRank);
     }
 }
 exports.Routes = Routes;
