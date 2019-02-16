@@ -101,7 +101,10 @@ export class eventController {
                             humidity = $(this).text();
                         }
                     });
-                    eventRes.addWeather(air_temp, ground_temp, humidity, track_condition);
+                    
+                    if (Number(esercizio) > 2004) {
+                        eventRes.addWeather(air_temp, ground_temp, humidity, track_condition);
+                    }
 
                     let type;
                     let detail;
