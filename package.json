@@ -9,10 +9,12 @@
   },
   "scripts": {
     "build": "tsc",
+    "postinstall": "npm run build",
     "dev": "nodemon ts-node --inspect=5858 src/server.ts",
     "start": "node dist/server.js",
     "prod": "npm run build && npm run start"
   },
+  
   "author": "Luca Ciotti",
   "license": "ISC",
   "dependencies": {
