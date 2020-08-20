@@ -7,7 +7,7 @@ const cheerio = require('cheerio');
 class RidersController {
     getRiders(req, res) {
         let lang = req.query.lang ? req.query.lang : 'en';
-        let category = req.params.category ? req.params.category : 'MotoGp';
+        let category = req.params.category ? req.params.category : 'MotoGP';
         var options = {
             url: 'http://www.motogp.com/' + lang + '/riders/' + category,
             method: 'GET',
@@ -44,7 +44,7 @@ class RidersController {
         let rider_name = req.params.rider_name;
         rider_name = rider_name.replace(' ', '+');
         let options = {
-            url: 'http://www.motogp.com/' + lang + '/riders/' + rider_name,
+            url: 'http://www.motogp.com/' + lang + '/riders/profile/' + rider_name,
             method: 'GET',
         };
         httpRequest(options, function (error, response, body) {
