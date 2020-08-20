@@ -11,7 +11,7 @@ export class RidersController {
 
     public getRiders(req: Request, res: Response) {
         let lang = req.query.lang ? req.query.lang : 'en';
-        let category: String = req.params.category ? req.params.category : 'MotoGp';
+        let category: String = req.params.category ? req.params.category : 'MotoGP';
 
         var options = {
             url: 'http://www.motogp.com/' + lang + '/riders/' + category,
@@ -52,7 +52,7 @@ export class RidersController {
         rider_name = rider_name.replace(' ', '+');
 
         let options = {
-            url: 'http://www.motogp.com/' + lang + '/riders/' + rider_name,
+            url: 'http://www.motogp.com/' + lang + '/riders/profile/' + rider_name,
             method: 'GET',
         };
 

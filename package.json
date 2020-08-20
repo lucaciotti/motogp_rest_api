@@ -13,21 +13,21 @@
   "author": "Luca Ciotti",
   "license": "ISC",
   "dependencies": {
-    "@types/cheerio": "^0.22.11",
-    "@types/express": "^4.16.1",
-    "@types/request": "^2.48.1",
+    "@types/cheerio": "^0.22.21",
+    "@types/express": "^4.17.7",
+    "@types/request": "^2.48.5",
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
-    "express": "^4.17.0",
-    "morgan": "^1.9.1",
-    "request": "^2.88.0"
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/lucaciotti/motogp_rest_api.git"
   },
   "devDependencies": {
-    "@types/morgan": "^1.7.35",
-    "nodemon": "^1.19.0"
+    "@types/morgan": "^1.9.1",
+    "nodemon": "^1.19.4"
   }
 }

@@ -32,14 +32,14 @@ export class Routes {
             next(); // make sure we go to the next routes and don't stop here
         });
 
-        this.router.route('/riders/:category?')
-            .get(this.ridersController.getRiders);
+        // this.router.route('/riders/:category?')
+        //     .get(this.ridersController.getRiders);
 
-        this.router.route('/riders/profile/:rider_name')
-            .get(this.ridersController.getRiderProfile);
+        // this.router.route('/riders/profile/:rider_name')
+        //     .get(this.ridersController.getRiderProfile);
 
-        this.router.route('/teams/:category?')
-            .get(this.teamController.getTeams);
+        // this.router.route('/teams/:category?')
+        //     .get(this.teamController.getTeams);
 
         this.router.route('/calendar')
             .get(this.calendarController.getCalendar);
@@ -50,7 +50,11 @@ export class Routes {
         this.router.route('/eventResult/:esercizio?/:event?/:category?/:session?')
             .get(this.eventController.getEventResult);
 
-        this.router.route('/finalRanking/:esercizio?/:event?/:category?')
-            .get(this.finalRankController.getFinalRank);
+        this.router
+          .route("/progrRanking/:esercizio?/:event?/:category?")
+          .get(this.finalRankController.getProgressiveRank);
+        this.router
+          .route("/seasonRanking/:esercizio?/:category?")
+          .get(this.finalRankController.getSeasonRank);
     }
 }

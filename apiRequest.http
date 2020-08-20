@@ -1,0 +1,65 @@
+#DEPRECATED GET http://localhost:3000/api/v1/riders/MotoGP
+###
+#DEPRECATED GET http://localhost:3000/api/v1/riders/profile/Valentino+Rossi
+###
+
+
+#DEPRECATED GET http://localhost:3000/api/v1/teams/MotoGP
+###
+
+
+GET http://localhost:3000/api/v1/calendar/2019
+###
+
+
+GET http://localhost:3000/api/v1/circuit/Qatar
+###
+
+
+GET http://localhost:3000/api/v1/eventResult/2020/SPA/MotoGP/RAC
+###
+GET http://localhost:3000/api/v1/progrRanking/2020/SPA/MotoGP
+###
+GET http://localhost:3000/api/v1/seasonRanking/2020/MotoGP
+###
+
+
+# ----------------------------------------------------
+# MOTOGP SITE API...
+# ----------------------------------------------------
+
+# RIDERS Search
+https://api.motogp.com/riders-api/riders
+    ?search=dovi
+###
+
+# RIDERS x Category
+# (MotoGP -> 737ab122-76e1-4081-bedb-334caaa18c70)
+# (Moto2 --> ea854a67-73a4-4a28-ac77-d67b3b2a530a)
+# (Moto3 --> 1ab203aa-e292-4842-8bed-971911357af1)
+# (MotoE --> cf196668-f900-4116-af79-810b91828a37) 
+https://api.motogp.com/riders-api/season/2019/riders
+    ?category=737ab122-76e1-4081-bedb-334caaa18c70
+###
+
+# RIDER PROFILE
+https://api.motogp.com/riders-api/riders
+    ?name=Andrea
+    &surname=Dovizioso
+###
+
+# RIDER ANNUAL STATISTICS
+https://api.motogp.com/results-api/statistics
+    ?riderLegacyId=5885
+###
+
+# RIDER BEST STATISTICS
+https://api.motogp.com/results-api/summary
+    ?riderLegacyId=5885
+###
+
+# TEAMS x Category
+https://api.motogp.com/riders-api/season/2020/teams
+    ?category=737ab122-76e1-4081-bedb-334caaa18c70
+
+
