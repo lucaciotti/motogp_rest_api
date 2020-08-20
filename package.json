@@ -4,6 +4,9 @@
   "description": "A Server REST Api to retrieve MotoGP info",
   "main": "server.js",
   "private": true,
+  "engines": {
+    "node": "12.x"
+  }
   "scripts": {
     "build": "tsc",
     "dev": "nodemon ts-node --inspect=5858 src/server.ts",
