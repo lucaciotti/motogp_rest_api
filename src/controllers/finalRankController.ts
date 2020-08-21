@@ -126,9 +126,10 @@ export class finalRankController {
                    .first().find('a')
                    .attr("href");
                 console.log(href.substr(href.indexOf(esercizio)+5,3));
+                // TODO: DA IMPLEMENTARE MOLTO MEGLIO EH...
                 var options2 = {
                   url:
-                    "http://localhost:3000/api/v1/progrRanking/" +
+                    "https://motogpapi.herokuapp.com/api/v1/progrRanking/" +
                     esercizio +
                     "/" +
                     href.substr(href.indexOf(esercizio) + 5, 3) +
