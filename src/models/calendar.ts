@@ -17,7 +17,7 @@ export class Calendar {
         this.isTest = isTest;
         this.image = image;
         this.event_number = 0;
-        this.circuit_subLink = circuit_link.substr(circuit_link.lastIndexOf('/'));
+        this.circuit_subLink = circuit_subLink.substr(circuit_subLink.lastIndexOf('/'));
         if (!isTest) {
             this.event_number = +name.toString().substr(0, 2);
             this.name = name.substr(name.indexOf('-')+1).trim();
