@@ -27,10 +27,10 @@ export class CalendarController {
                         let date = new Date($(this).find('div.event_day').text().replace(/^\s+|\s+$/gm, '') + "/" + $(this).find('div.event_month').text().replace(/^\s+|\s+$/gm, '') + "/" + thisYear);
                         let isTest = $(this).find('img.event_test').length > 0;
                         let image = $(this).find('img.event_image').attr('src');
-                        let circuit_link = $(this).find('a.event_image_container').attr('href');
+                        let circuit_subLink = $(this).find('a.event_image_container').attr('href');
                         if(name!=''){
                             image = image.substr(0, image.indexOf('?version')).replace('324x143', '648x286');
-                            calendatList.push(new Calendar(name, date, location, nation, isTest, image, circuit_link));
+                            calendatList.push(new Calendar(name, date, location, nation, isTest, image, circuit_subLink));
                         }
                     });
                     res.json(calendatList);
