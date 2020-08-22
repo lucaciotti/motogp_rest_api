@@ -108,8 +108,8 @@ export class Circuit {
         this.motogp_most_poles.push(stats);
     }
 
-    addMotoGpRecords(type, season, rider_name, rider_num, rider_team, time?, speed?) {
-        let typeName :string = type.replace(' ', '_').trim();
+    addMotoGpRecords(type :string, season, rider_name, rider_num, rider_team, time?, speed?) {
+        let typeName :string = type.toLowerCase().split(' ').join('_').trim();
         let records: circuitRecords = {
             [typeName]: {
                 season: season,
@@ -153,7 +153,7 @@ export class Circuit {
     }
 
     addMoto2Records(type, season, rider_name, rider_num, rider_team, time?, speed?) {
-        let typeName: string = type.replace(' ', '_').trim();
+        let typeName: string = type.toLowerCase().split(' ').join('_').trim();
         let records: circuitRecords = {
             [typeName]: {
                 season: season,
@@ -197,7 +197,7 @@ export class Circuit {
     }
 
     addMoto3Records(type, season, rider_name, rider_num, rider_team, time?, speed?) {
-        let typeName: string = type.replace(' ', '_').trim();
+        let typeName: string = type.toLowerCase().split(' ').join('_').trim();
         let records: circuitRecords = {
             [typeName]: {
                 season: season,
