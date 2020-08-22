@@ -109,8 +109,9 @@ export class Circuit {
     }
 
     addMotoGpRecords(type, season, rider_name, rider_num, rider_team, time?, speed?) {
+        let typeName :string = type.replace(' ', '_').trim();
         let records: circuitRecords = {
-            [type]: {
+            [typeName]: {
                 season: season,
                 rider_name: rider_name,
                 rider_num: rider_num,
@@ -152,8 +153,9 @@ export class Circuit {
     }
 
     addMoto2Records(type, season, rider_name, rider_num, rider_team, time?, speed?) {
+        let typeName: string = type.replace(' ', '_').trim();
         let records: circuitRecords = {
-            [type]: {
+            [typeName]: {
                 season: season,
                 rider_name: rider_name,
                 rider_num: rider_num,
@@ -195,8 +197,9 @@ export class Circuit {
     }
 
     addMoto3Records(type, season, rider_name, rider_num, rider_team, time?, speed?) {
+        let typeName: string = type.replace(' ', '_').trim();
         let records: circuitRecords = {
-            [type]: {
+            [typeName]: {
                 season: season,
                 rider_name: rider_name,
                 rider_num: rider_num,
