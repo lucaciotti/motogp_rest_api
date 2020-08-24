@@ -6,20 +6,15 @@
     "configurations": [
         {
             "type": "node",
-            "request": "attach",
-            "name": "Attach to Process Nodemon",
-            "port":9229,
-            "restart": true,
+            "request": "launch",
+            "name": "Debug TypeScript in Node.js",
+            "preLaunchTask": "typescript",
+            "program": "${workspaceFolder}/src/server.ts",
+            "cwd": "${workspaceFolder}",
             "protocol": "inspector",
-            // "request": "launch",
-            // "processId": "${command:PickProcess}",
-            // "name": "Avvia programma",
-            // "program": "${workspaceFolder}\\server.js",
-            // "preLaunchTask": "tsc: build - tsconfig.json",
-            // "outFiles": [
-            //     "${workspaceFolder}/dist/**/*.js"
-            // ]
-
+            "outFiles": [
+                "${workspaceFolder}/dist/**/*.js"
+            ]
         }
     ]
 }
