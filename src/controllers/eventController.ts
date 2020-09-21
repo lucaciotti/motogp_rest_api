@@ -131,7 +131,7 @@ export class eventController {
                           rider_team,
                           rider_nation,
                           bike,
-                          lastPosition,
+                          String(lastPosition),
                           speed,
                           time,
                           points
