@@ -18,7 +18,7 @@ GET http://localhost:3000/api/v1/circuit/Qatar
 
 GET http://localhost:3000/api/v1/eventResult/2020/SPA/MotoGP/RAC
 ###
-GET http://localhost:3000/api/v1/progrRanking/2020/SPA/MotoGP
+GET http://localhost:3000/api/v1/progrRanking/2019/SPA/MotoGP
 ###
 GET http://localhost:3000/api/v1/seasonRanking/2020/MotoGP
 ###

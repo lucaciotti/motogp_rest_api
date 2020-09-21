@@ -65,7 +65,8 @@ export class eventController {
                   });
                   console.log(hasPoints);
 
-                  let position;
+                  let position :String;
+                  let lastPosition = 0;
                   let points;
                   let rider_num;
                   let rider_name;
@@ -123,13 +124,14 @@ export class eventController {
                           }
                         });
                       if (rider_name != "") {
+                        lastPosition = position ? +position : lastPosition+1;
                         eventRes.addRanking(
                           rider_name,
                           rider_num,
                           rider_team,
                           rider_nation,
                           bike,
-                          position,
+                          lastPosition,
                           speed,
                           time,
                           points
